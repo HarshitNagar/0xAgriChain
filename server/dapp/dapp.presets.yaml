@@ -1,0 +1,19 @@
+admin:
+  name: adomino
+  password: password
+users:
+  - username: 'SeedSupplier_2'
+    password: '1234'
+    role: SUPPLIER
+  - username: 'SeedSupplier_1'
+    password: '1234'
+    role: SUPPLIER
+  - username: 'Farmer_SellWheat'
+    password: '1234'
+    role: SUPPLIER
+  - username: 'Farmer_BuySeeds'
+    password: '1234'
+    role: BUYER
+  - username: 'Consumer_BuyWheat'
+    password: '1234'
+    role: BUYER

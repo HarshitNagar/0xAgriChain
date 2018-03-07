@@ -1,0 +1,24 @@
+url: 'http://localhost/bloc/v2.2'
+admin:
+  name: Admin_2038_74169
+  password: '7890'
+  address: 97201fa8464e575366ec49791d5013eb18977ed0
+contract:
+  name: AdminInterface
+  address: c9c80c5896d5f50d325156c50cb387439f029d1c
+users:
+  - username: SeedSupplier_2
+    password: '1234'
+    role: SUPPLIER
+  - username: SeedSupplier_1
+    password: '1234'
+    role: SUPPLIER
+  - username: Farmer_SellWheat
+    password: '1234'
+    role: SUPPLIER
+  - username: Farmer_BuySeeds
+    password: '1234'
+    role: BUYER
+  - username: Consumer_BuyWheat
+    password: '1234'
+    role: BUYER
